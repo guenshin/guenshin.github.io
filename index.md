@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Guen Shin's Pages
 
 You can use the [editor on GitHub](https://github.com/guenshin/guenshin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
